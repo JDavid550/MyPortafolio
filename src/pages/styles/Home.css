@@ -1,0 +1,13 @@
+.title {
+  color: #0a2540;
+  font-family: "Work Sans", sans-serif;
+  font-size: 5rem;
+}
+
+.Home {
+  height: 100%;
+}
+
+.Home__row--column {
+  height: 60rem;
+}
