@@ -8,3 +8,19 @@ a {
 .Container_link {
   width: 40rem;
 }
+
+.Contact__row {
+  height: 90vh;
+}
+
+.Contact__row--column-1 {
+  padding-left: 15rem;
+}
+
+.Contact__row--column-2 {
+  padding-right: 15rem !important;
+}
+
+.Container_link--a {
+  font-size: large;
+}

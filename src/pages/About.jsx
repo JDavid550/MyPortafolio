@@ -7,7 +7,7 @@ function Home(){
         <div className="col-8 ">
             <h1 className="pb-5 title">Hello dear visitant! <span className="Hand">&#128075;</span> </h1>
             <p>
-            I'm Juan David Álvarez Sarmiento and I'm a <strong>frontend developer</strong>  with one year of experience based in Bogotá. I'm passionate about web and data technologies, specially, in the integration of UX, UI, with software engineering. <br/>
+            I'm Juan David Álvarez Sarmiento and I'm a <strong>frontend developer</strong> with one year of experience based in Bogotá. I'm passionate about web and data technologies, specially, in the integration of UX, UI, with software engineering. <br/>
             </p>
             <p>
             I enjoy a lot listening to people's needs and what they expect about their products, that's why in every project I like to be involved in the gathering of requirements to transform all those ideas into code and deploy them with continuous integration and improvement. <br/>
