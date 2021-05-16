@@ -16,6 +16,7 @@ body {
 
 @import url(./pages/styles/Home.css);
 @import url(./pages/styles/About.css);
+@import url(./pages/styles/Contact.css);
 @import url(./components/styles/Navbar.css);
 
 .App {

@@ -1,9 +1,17 @@
-span {
+.Link {
   font-family: "Raleway", sans-serif;
   font-size: 1.7rem;
   color: #f3f3f0;
+  text-decoration: none;
+}
+.Logo {
+  color: #f3f3f0;
+  font-family: "Work Sans", sans-serif;
+  font-size: 1.8rem;
+  text-decoration: none;
 }
 
 .Navbar {
   background-color: #1e261d;
+  max-width: 100vw;
 }

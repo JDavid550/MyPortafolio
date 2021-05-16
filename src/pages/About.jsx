@@ -5,6 +5,7 @@ function Home(){
     return <div className="container About">
         <div className="row About__row">
         <div className="col-8 ">
+            <h1 className="pb-5 title">Hello dear visitant! <span className="Hand">&#128075;</span> </h1>
             <p>
             I'm Juan David Álvarez Sarmiento and I'm a <strong>frontend developer</strong>  with one year of experience based in Bogotá. I'm passionate about web and data technologies, specially, in the integration of UX, UI, with software engineering. <br/>
             </p>
