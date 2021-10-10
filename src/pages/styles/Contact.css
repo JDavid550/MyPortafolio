@@ -24,3 +24,18 @@ a {
 .Container_link--a {
   font-size: large;
 }
+
+.Container_link--a::after {
+  content: "";
+  background: black;
+  display: block;
+  height: 2px;
+  width: 0%;
+  margin-left: 15px;
+  transition: 0.3s;
+}
+
+.Container_link--a:hover::after {
+  width: 80%;
+  transition: width 0.3s;
+}

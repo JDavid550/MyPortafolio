@@ -14,9 +14,18 @@ function Contact(){
         <div className="Contact__row--column-2 col-7  d-flex flex-column  align-items-end justify-content-center"> 
             <h1 className="title">Let's talk!</h1>
             <div className="Container_link d-flex flex-row justify-content-end ">
+                <div>
                 <a className="m-4 Container_link--a" target="_blank" href="https://www.google.com">LinkedIn</a>
+                <div className="div_animation"></div>
+                </div>
+                <div>
                 <a className="m-4 Container_link--a"  href="">GitHub</a>
+                <div className="div_animation"></div>
+                </div>
+                <div>
                 <a  className="m-4 Container_link--a" href="">Email</a>
+                <div className="div_animation"></div>
+                </div>
             </div>
         </div>
         </div>
